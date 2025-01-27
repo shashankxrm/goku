@@ -1,4 +1,4 @@
-// initialization
+// Landing Page JS
 
 const RESPONSIVE_WIDTH = 1024
 
@@ -293,3 +293,7 @@ sections.forEach((sec) => {
 
 
 })
+
+// ------------- Landing page JS ends here ---------------
+
+
